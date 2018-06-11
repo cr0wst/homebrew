@@ -23,5 +23,5 @@ Here are some various ingredients I've used:
 - LD Carlson Pectic Enzyme [On Amazon](https://www.amazon.com/gp/product/B0064GZPWM)
 - HomeBrewStuff.com Yeast Nutrient [On Amazon](https://www.amazon.com/gp/product/B0064H0MM4)
 
-#### Yeasts
+### Yeasts
 - Lalvin EC-1118 [On Amazon](https://www.amazon.com/gp/product/B002LQBSIO)
